@@ -1,0 +1,2 @@
+TOKEN_API = ''
+WEATHER_TOKEN = ''
